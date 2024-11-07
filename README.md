@@ -1,2 +1,2 @@
 # ChinaEasy
-Travel to China is a hard game, through this project we aim to make it easier.
+this project provide a flashcard include useful sentenses that can help travelers easier travel in china
