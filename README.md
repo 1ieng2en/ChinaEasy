@@ -5,4 +5,4 @@ Travel to China can be a challenging experience, but with this project, we aim t
 ChinaEasy is a collection of flashcards designed to help travelers navigate daily life in China. These flashcards cover essential phrases and vocabulary that are useful in various situations such as dining, transportation, accommodation, shopping, and social interactions.
 
 ## How to use?
-You can print the flashcard in doulbe side and make it as small flash cards. By modify the latex file you can also make your own phrases for your need. 
+You can print the flashcard in doulbe side and slice it into the flash cards. By modify the latex file you can also add more cards. 
